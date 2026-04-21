@@ -6,7 +6,7 @@ Ce dépot permettra aux membres du groupe 4 de partager leurs travaux
 |---------------------|-------------------------|---------|---------------------|
 | NAM                 | Moussah                 | GC      |                     |
 | NIKABOU             | Kondi Chérif            | GC      |                     |
-| AKAKPO-NUMADO       | Manuely                 | IA&BD   |                     |
+| AKAKPO-NUMADO       | Manuely                 | IA&BD   |  90 50 13 89        |
 | SEDALO              | Kokou Egnon Nathalien   | GC      |                     |
 | ABALO               | Kokou Mawussé Godfroy   | GC      |                     |
 | ADEGUE              | Komi Emile              | GM      |                     |
