@@ -1,4 +1,4 @@
-# Travail du Groupe 4
+# Groupe 4
 ![photo](https://tse4.mm.bing.net/th/id/OIP.4s1dyDH29EJOse-6Ei5mjwHaBp?rs=1&pid=ImgDetMain&o=7&rm=3)
 ### UE: INF1220 Structures de Données et Programmation en C
 ------
