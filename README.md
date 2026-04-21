@@ -11,7 +11,7 @@ Ce dépot permettra aux membres du groupe 4 de partager leurs travaux
 | NIKABOU             | Kondi Chérif            | GC      |  90 26 75 35        |
 | SEDALO              | Kokou Egnon Nathalien   | GC      |  99 14 79 12        |
 | ABALO               | Kokou Mawussé Godfroy   | GC      |  90 98 87 29        |
-| ADEGUE              | Komi Emile              | GM      |                     |
+| ADEGUE              | Komi Emile              | GM      |  96 81 44 33        |
 | SAPKANI             | Paguiyedou              | IA&BD   |  91 14 98 27        |
 | LAMANALA            | Di-bahome Timothée      | GM      |                     |
 | KADJOU              | Sokoum Paul             | GC      |                     |
