@@ -1,4 +1,4 @@
-# Travail_du_Groupe4
-Ce dépot permettra au membre du groupe 4 de partager leurs travaux
+# Travail du Groupe4
+Ce dépot permettra aux membres du groupe 4 de partager leurs travaux
 
-## Menbre du Groupe:
+## Membres du Groupe:
