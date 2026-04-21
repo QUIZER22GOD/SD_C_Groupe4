@@ -40,6 +40,25 @@ typedef struct
     float moy_def;
 } Etudiant;
 
+/*Fonction de saisi du nombre d'étudiant*/
+int saisirNombreEtudiants()
+{
+    int n;
+
+    do
+    {
+        printf("Donnez le nombre d'etudiants : ");
+        scanf("%d", &n);
+
+        if (n <= 0)
+        {
+            printf("Erreur : le nombre d'etudiants doit etre superieur a 0 !\n");
+        }
+
+    } while (n <= 0);
+
+    return n;
+}
 /*27) Définition de la fonction qui ne reçoit rien
 en paramètre et retourne les données d'un nouvel étudiant*/
 Etudiant saisirEtudiant()
@@ -194,19 +213,7 @@ void afficherValidation(Etudiant *liste, int n)
 int main()
 {
     //--1. Demande du nombre d'étudiants
-    int n;
-    do
-    {
-        printf("Donnez le nombre d'etudiant:");
-        scanf("%d", &n);
-
-        if (n <= 0)
-        {
-            printf("Erreur : le nombre d'etudiants doit etre supérieur à 0 !\n");
-        }
-
-    } while (n <= 0);
-
+    int n = saisirNombreEtudiants();
     //--2. allocation du tableau liste
     Etudiant *liste;
     liste = (Etudiant *)malloc(n * sizeof(Etudiant));
