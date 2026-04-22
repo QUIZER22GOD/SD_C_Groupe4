@@ -18,7 +18,7 @@ KADJOU Sokoum Paul  GC
 Date : 21 Avril 2026
 
 Description : Ce programme permet de savoir
-si les étudiants ont validé un unité d'enseignement.
+si les étudiants ont validé une unité d'enseignement.
 */
 #include <stdio.h>
 #include <stdlib.h>

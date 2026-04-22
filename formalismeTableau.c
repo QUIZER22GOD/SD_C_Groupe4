@@ -23,8 +23,8 @@ si les étudiants ont validé un unité d'enseignement.
 #include <stdlib.h>
 
 /*Ce programme gère les résultats académiques des étudiants d'une Unité
-d'Enseignement (UE)en calculant leurs moyennes selon un système de notation
-précis,puis en les validant par rapport à la moyenne générale de la promotion.*/
+d'Enseignement (UE) en calculant leurs moyennes selon un système de notation
+précis, puis en les validant par rapport à la moyenne générale de la promotion.*/
 
 /*la structure étudiant*/
 typedef struct
