@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1777482216 source:c:\users\lenovo\downloads\application de gestion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1777495512 source:c:\users\lenovo\downloads\application de gestion\menu.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1777469439 source:c:\users\lenovo\downloads\application de gestion\bienvenu.c
+	<stdio.h>
+	<conio.h>
+
+1777475870 source:c:\users\lenovo\downloads\application de gestion\ajouter.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"head.h"
+
+1777494489 c:\users\lenovo\downloads\application de gestion\head.h
+
+1777472253 source:c:\users\lenovo\downloads\application de gestion\outils.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"head.h"
+
+1777470465 c:\users\lenovo\downloads\application de gestion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1777495673 source:c:\users\lenovo\downloads\application de gestion\modifier.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"head.h"
+
+1777495876 source:c:\users\lenovo\downloads\application de gestion\supprimer.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"head.h"
+
+1777494936 source:c:\users\lenovo\downloads\application de gestion\affichage.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"head.h"
+
+1777495588 source:c:\users\lenovo\downloads\application de gestion\sortir.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"head.h"
+
+1777495339 source:c:\users\lenovo\downloads\application de gestion\recherche.c
+
+1777495304 source:c:\users\lenovo\downloads\application de gestion\navigation.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"head.h"
+
+1777498225 source:c:\users\lenovo\downloads\application de gestion\trier.c
+	"head.h"
+
