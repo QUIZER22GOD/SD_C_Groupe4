@@ -27,7 +27,7 @@ void ajouter()
         return;
     }
     
-    printf("ENTRE LE NOMBRE D'ORDINATEUR\n");
+    printf("ENTREZ LE NOMBRE D'ORDINATEUR\n");
     int n;
     while (1)
     {
@@ -38,7 +38,7 @@ void ajouter()
         }
         else
         {
-            printf("ENTRE UN NOMBRE POSITIF ET INFERIEUR A %d\n", place_disponible);
+            printf("ENTREZ UN NOMBRE POSITIF ET INFERIEUR A %d\n", place_disponible);
         }
     }
     
@@ -89,25 +89,25 @@ void ajouter()
                 }
 
                 printf("-----------------------------------------------------\n");
-                printf("| entre le numero de la carte         |");
+                printf("| entrez le numero de la carte         |");
                 gotoxy(40, 1); scanf("%d", (*i)->numero_carte);
             
-                printf("| entre la capacite de la ram         |");
+                printf("| entrez la capacite de la ram         |");
                 gotoxy(40, 2); scanf("%d", (*i)->ram);
             
-                printf("| entre la taille du disque dur       |");
+                printf("| entrez la taille du disque dur       |");
                 gotoxy(40, 3); scanf("%d", (*i)->disque_dur);
             
-                printf("| entre le prix de l'ordinateur       |");
+                printf("| entrez le prix de l'ordinateur       |");
                 gotoxy(40, 4); scanf("%d", (*i)->prix_ordinateur);
             
-                printf("| entre la vitesse du cpu             |");
+                printf("| entrez la vitesse du cpu             |");
                 gotoxy(40, 5); scanf("%f", (*i)->vitesse_cpu);
             
-                printf("| entre la specialite de l'etudiant   |");
+                printf("| entrez la specialite de l'etudiant   |");
                 gotoxy(40, 6); scanf("%s", (*i)->specialite);
             
-                printf("| entre la marque de l'ordinateur     |");
+                printf("| entrez la marque de l'ordinateur     |");
                 gotoxy(40, 7);  scanf("%s", (*i)->marque);
             
                 printf("-----------------------------------------------------\n\n");
