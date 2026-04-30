@@ -23,8 +23,8 @@ void afficher(ordinateur ordi)
             printf("-----------------------------------------------------------\n");
         }
   
-        printf("AUCUN ORDINATEUR TROUVE.\n");
-        printf("APPuyez sur une touche pour continuer...\n");
+        printf("AUCUN ORDINATEUR TROUVER.\n");
+        printf("Appuyez sur une touche pour continuer...\n");
         getch();
         return;
 }
