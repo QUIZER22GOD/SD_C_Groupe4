@@ -5,7 +5,7 @@ Ce dépôt rassemble l’ensemble des exercices pratiques, projets et travaux di
 
 ## 📁 Organisation du dépôt
 
-Chaque membre du groupe dispose de sa propre branche ou d’un dossier pour déposer ses travaux.  
+Chaque dépôt est fait dans une branche qui lui est propre afin de pouvoir cloner toute la branche lors des tests en local. 
 Les fichiers à la racine (`main`, `README`, etc.) sont communs au groupe.
 
 ## 👥 Équipe
@@ -22,5 +22,5 @@ Les fichiers à la racine (`main`, `README`, etc.) sont communs au groupe.
 | LAMANALA Di-bahome Timothée | GM | |
 | KADJOU Sokoum Paul | GC | |
 
-*(Merci de renseigner vos numéros de téléphone dans la colonne ci-dessus)*
+
 
