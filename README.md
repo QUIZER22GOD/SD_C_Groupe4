@@ -10,17 +10,19 @@ Les fichiers à la racine (`main`, `README`, etc.) sont communs au groupe.
 
 ## 👥 Équipe
 
-| Nom | Prénom | Filière | Numéro de téléphone |
-|-----|--------|---------|---------------------|
-| AKAKPO-NUMADO | Marouly Mawuyram | IA-BBD | 90 50 13 89 |
-| NAM | Moussaah | GC | 70 92 44 62 |
-| NIKABOU | Kandi Chefif | GC | 90 26 75 35 |
-| SEDALO | Kokou Egnon Nathalie | GC | 99 14 79 12 |
-| ABALO | Kokou Mawusé Godfrey | GC | 90 98 87 29 |
+## Membres du Groupe
+
+| Nom | Prénom | Filière | Téléphone |
+|-----|--------|---------|------------|
+| AKAKPO-NUMADO | manuely | IA&BD | 90 50 13 89 |
+| NAM | Moussah Yedouboime | GC | 70 92 44 62 |
+| NIKABOU | Kondi Chérif | GC | 90 26 75 35 |
+| SEDALO | Kokou Egnon Nathalien | GC | 99 14 79 12 |
+| ABALO | Kokou Mawussé Godfroy | GC | 90 98 87 29 |
 | ADEGUE | Komi Emile | GM | 96 81 44 33 |
-| SAPKANI | Paguydoudou | IA-BBD | 91 14 98 27 |
+| SAPKANI | Paguiyedou | IA&BD | 91 14 98 27 |
 | LAMANALA | Di-bahome Timothée | GM | 96 42 39 82 |
-| KADIOU | Soloum Paul | GC | 96 43 14 92 |
+| KADJOU | Sokoum Paul | GC | 96 43 14 92 |
 
 
 
