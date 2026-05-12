@@ -1,6 +1,6 @@
 
 /*
-Nom du programme : Deliberation_UE
+Nom du programme : Gestion des ordinateurs du parc
 
 GROUPE 4
 
@@ -8,15 +8,15 @@ Auteurs:
 
 AKAKPO-NUMADO manuely IA&BD
 NAM Moussah Yedouboime  GC
-NIKABOU Kondi Chérif   GC
+NIKABOU Kondi ChÃ©rif   GC
 SEDALO Kokou Egnon Nathalien  GC
-ABALO Kokou Mawussé Godfroy GC
+ABALO Kokou MawussÃ© Godfroy GC
 ADEGUE Komi Emile GM
 SAPKANI Paguiyedou IA&BD
-LAMANALA Di-bahome Timothée GM
+LAMANALA Di-bahome TimothÃ©e GM
 KADJOU Sokoum Paul  GC
 
-Date : 21 Avril 2026
+Date : 10 mai 2026
 
 Description : Adds core structure for student computer management app
 
