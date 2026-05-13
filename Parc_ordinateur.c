@@ -532,6 +532,7 @@ void naviguer(int choix)
         int n_affichage = 0;
         for (int i = 0; i < 300; i++) {
             if (ordi[i] != NULL) {
+                printf("ORDINATEUR %d :\n", i + 1);
                 afficher(*ordi[i]);
                 n_affichage++;   
             }
