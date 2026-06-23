@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1778340981 source:c:\users\lenovo\downloads\application de gestion version 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1778547515 c:\users\lenovo\downloads\application de gestion version 2\head.h
+
+1778546740 source:c:\users\lenovo\downloads\application de gestion version 2\parc.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	"head.h"
+
