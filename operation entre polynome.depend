@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1781643328 source:c:\users\lenovo\downloads\operation entre polynome\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"polynome.h"
+
+1781643373 c:\users\lenovo\downloads\operation entre polynome\polynome.h
+
+1781643326 source:c:\users\lenovo\downloads\operation entre polynome\polynome.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"polynome.h"
+
