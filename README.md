@@ -8,7 +8,7 @@ Ce dépôt rassemble l’ensemble des exercices pratiques, projets et travaux di
 Chaque dépôt est fait dans une branche qui lui est propre afin de pouvoir cloner toute la branche lors des tests en local. 
 Les fichiers à la racine (`main`, `README`, etc.) sont communs au groupe.
 
-## 👥 Équipe
+## 👥 Équipes
 
 ## Membres du Groupe
 
